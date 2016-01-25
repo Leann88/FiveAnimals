@@ -1,0 +1,5 @@
+numPlayers|2
+player 0|qwerty
+player 1|uiop
+secretAnimal 0|M
+secretAnimal 1|D
